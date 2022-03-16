@@ -1,2 +1,2 @@
-# projeto_tela_de_login_Python
-Tela simples de login desenvolvida em Python
+# Projeto_tela_de_login_Python
+Interface de login desenvolvida em Python
